@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+  font-style: normal;
+  font-family: 'SF UI Text', sans-serif;
+  /* background-image: url('../imgs/bg.jpg'); */
+}
+
+.container-main {
+  margin-top: 7.3%;
+  margin-left: 6.7%;
+}
+
+img {
+  height: 30rem;
+  padding-right: 0.3%;
+}
+
+h1 {
+  letter-spacing: -3px;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-style: bold;
+  line-height: 64px;
+  background: linear-gradient(180deg, #5B24BF 0%, #1737A7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-top: 6%;
+  margin-bottom: 3%;
+}
+
+p {
+  font-family: 'SF UI Text', sans-serif;
+}
+
+.vision-stmt {
+  color: white;
+  font-family: 'SF UI Text', sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.btn {
+  border-radius: 0.6em;
+  background-color: #0E236C !important;
+  color: white;
+  padding: 1% 4.3% 1% 4.3%;
+  font-weight: 430;
+  font-style: bold;
+  text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.235);
+}
+
+.btn:hover {
+  background-color: #0e1d56;
+  color: white;
+}
+
+.logo-font {
+  margin-top: 4%;
+  margin-left: 10%;
+  background: linear-gradient(183.46deg, #A333CE 8.14%, #2E19B4 136.23%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-family: 'Syne', sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
