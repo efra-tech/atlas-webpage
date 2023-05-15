@@ -75,4 +75,7 @@ p {
     margin-right: auto;
     margin-left: auto;
   }
+  html {
+    height: 140%;
+  }
 }
