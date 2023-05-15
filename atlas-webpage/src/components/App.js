@@ -6,7 +6,7 @@ import MobileLanding from './MobileLandingV2';
 export default function App(props) {
   return (
     <div className>
-      <MobileLanding />
+      <WaitlistLanding />
     </div>
   );
 }
